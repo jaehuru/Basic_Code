@@ -27,5 +27,8 @@
     <ClCompile Include="_04_array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_05_array_initialize.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
