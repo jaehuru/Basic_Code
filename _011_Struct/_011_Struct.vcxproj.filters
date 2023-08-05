@@ -27,5 +27,8 @@
     <ClCompile Include="_04_struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_05_struct_Param.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
