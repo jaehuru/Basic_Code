@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <string.h>
-
-#define HUMAN_NUM 3
 
 /* C언어에서 구조체 사용은 struct Human human; 처럼 struct키워드를 붙여야 한다.
 * 다만 프로그래머들이 구조체를 계속 사용하다보니 struct를 생략해서 표현하기를

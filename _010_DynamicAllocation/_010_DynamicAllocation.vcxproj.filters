@@ -21,5 +21,11 @@
     <ClCompile Include="_02_calloc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_03_TwoDimDynamicArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_04_TwoDimDynamicArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
